@@ -1,4 +1,4 @@
-# video-generator-ml
+# Video Generator from Prompt
 
 ## Description
 Generate a video from a prompt.
