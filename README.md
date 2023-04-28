@@ -4,6 +4,7 @@
 Generate a video from a prompt.
 
 ## Inspiration
+* [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 * [Video Diffusion in PyTorch](https://github.com/lucidrains/video-diffusion-pytorch)
 
 ## Running the program
