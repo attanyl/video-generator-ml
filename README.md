@@ -1,5 +1,10 @@
 # video-generator-ml
+
+## Description
 Generate a video from a prompt.
+
+## Inspiration
+* [Video Diffusion in PyTorch](https://github.com/lucidrains/video-diffusion-pytorch)
 
 ## Running the program
 
